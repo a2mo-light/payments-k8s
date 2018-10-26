@@ -1,0 +1,7 @@
+*.gradle/
+build/*
+*.iml
+helm-chart/
+*.idea/
+out/
+*.jar

@@ -1,0 +1,5 @@
+rootProject.name = 'payment-k8s'
+include 'log-demo'
+include 'payment'
+include 'products'
+
